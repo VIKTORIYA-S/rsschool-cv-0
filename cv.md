@@ -3,10 +3,14 @@
 
 ---
 ## My contacts: 
-***phone:*** +380(63)11-36-462
-***email:*** v.suprun1961@gmail.com
-***Telegram:*** @svictoria1961
+***phone:*** +380(63)11-36-462  
+
+***email:*** v.suprun1961@gmail.com  
+
+***Telegram:*** @svictoria1961  
+
 ***Viber:*** ВИКТОРИЯ
+
 ---
 ## About Me:
 I work in a kindergarten as a music director and as an accompanist in the Palace of Children's Creativity.
