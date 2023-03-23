@@ -33,3 +33,16 @@ Pedagogical University| Palace of Children's Creativity| Accompanist| 1990-2023
 4. Digital design UX/UI.
     4.1 [Certificate](digital-design.png)
     4.2 [Certificate](ux-ui-start.jpeg)
+
+    ---
+## My projects: 
+* [HTML5, CSS3, JavaScript:](https://viktoriya-s.github.io/music/)
+* [HTML5, CSS3](https://viktoriya-s.github.io/resume-new/) 
+* [HTML5, CSS3, JavaScript, UX/UI:](https://viktoriya-s.github.io/banderogys/)
+
+---
+---
+## Languages:
+* Ukrainian - native
+* Russian - native
+
